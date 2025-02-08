@@ -1,0 +1,67 @@
+  .contact {
+    width: 100%;  
+    height: 50vh;
+    
+  }
+  
+  .image-container::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55vh;
+    background: rgba(0, 0, 0, 0.5); 
+  }
+
+  .banner{
+    height:55vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .contactus{
+    position: absolute;
+    top: 34%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(245, 241, 241);
+    z-index: 1;
+    text-align:left;
+  }
+  form label {
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    color: #333; 
+}
+
+.contact-img{
+     height: 500px;
+     width: 500px;
+     
+     
+}
+
+.withus{
+  font-family:serif;
+  font-weight: bold;
+}
+.font{
+  font-family:serif;
+  font-weight: bold;
+  font-size: 70px;
+
+}
+.submit {
+  background-color: darkorange;
+  color: white ;
+}
+
+.submit:hover {
+  background-color: #d87c00 ;
+  
+}
+
+  
+  

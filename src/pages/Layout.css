@@ -1,0 +1,54 @@
+.custom-navbar {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background:rgba(0, 0, 0, 0.63);
+  z-index: 10; 
+  }
+
+  .navbar-nav{
+    gap: 40px;
+  }
+
+  .navbar-nav .nav-link {
+    color:white;
+    font-weight: bold;
+  
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color:darkorange
+     }
+
+  .shop {
+    color: white ;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+  
+  .navbar-toggler {
+    border-color: white;
+  }
+
+  .logo {
+    color: white;
+    height: 100px; 
+    margin-right: 10px; 
+  }
+
+  .dreamcake{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+.dream{
+    color: rgb(224, 140, 71);
+  }
+
+  
+
+  
+ 
+
+
+ 
+  
+  
